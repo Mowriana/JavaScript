@@ -1,0 +1,4 @@
+function multiplication() {
+
+}
+multiplication();
